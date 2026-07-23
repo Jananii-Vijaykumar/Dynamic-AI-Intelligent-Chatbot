@@ -1,0 +1,8 @@
+Flask==3.0.3
+requests
+spacy
+textblob
+groq
+pandas
+matplotlib
+python-dotenv
