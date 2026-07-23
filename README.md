@@ -6,7 +6,7 @@ An AI-powered conversational chatbot developed using **Flask**, **Groq Llama 3**
 
 ## 👩‍💻 Project Developers
 
-- **Janani**
+- **Jananii**
 - **Sharini Pooja**
 
 ---
@@ -145,7 +145,7 @@ Add screenshots of:
 
 ## 🤝 Contributors
 
-- **Janani**
+- **Jananii**
 - **Sharini Pooja**
 
 ---
